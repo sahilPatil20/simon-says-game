@@ -1,1 +1,1 @@
-Simon Says Game
+<h1>Simon Says Game</h1>
